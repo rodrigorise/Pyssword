@@ -68,7 +68,7 @@ while not finish:
                     print("For some reason we couldn't connect to the database, check your connection or comeback later :)")
                 input("- Press enter to continue -")
             case 3:
-                print("\nThank you for using Pyssword!\ngithub.com/rodrigorxd")
+                print("\nThank you for using Pyssword!\ngithub.com/rodrigodvalente")
                 finish = True
             case _:
                 print("Invalid option, trying again...")
